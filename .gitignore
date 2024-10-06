@@ -1,0 +1,37 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Debug files
+*.pdb
+*.ilk
+
+# IDE-specific files
+# Visual Studio
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# MacOS
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+.vs/
+*.ipch

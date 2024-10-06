@@ -1,2 +1,20 @@
-# Auto detect text files and perform LF normalization
+# Normalize text file line endings
 * text=auto
+
+# Treat C++ source code files as text
+*.cpp text
+*.h text
+*.hpp text
+
+# Mark binary files
+*.png binary
+*.jpg binary
+*.exe binary
+*.dll binary
+*.lib binary
+*.so binary
+*.a binary
+
+# Treat Visual Studio project files as text
+*.vcxproj text
+*.sln text
