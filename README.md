@@ -36,7 +36,7 @@ The game allows players to aim, choose the strength of their shot, and navigate 
 - **V** - toggle wireframe mode
 - **Esc** - exit the game
 
-## Screenshots
+## Preview
 <img src="Images/Screenshot1.png" alt="Screenshot" width="500"/> <img src="Images/Screenshot2.png" alt="Screenshoot" width="500"/>
 <img src="Images/Screenshot3.png" alt="Screenshot" width="500"/> <img src="Images/Gameplay.gif" alt="Gameplay GIF" width="500"/>
 
