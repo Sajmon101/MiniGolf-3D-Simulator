@@ -38,7 +38,7 @@ The game allows players to aim, choose the strength of their shot, and navigate 
 
 ## Screenshots
 <img src="Images/Screenshot1.png" alt="Screenshot" width="300"/> <img src="Images/Screenshot2.png" alt="Screenshoot" width="500"/>
-<img src="Images/Screenshot3.png" alt="Screenshot" width="300"/> <img src="Images/Gsmeplay.gif" alt="Gameplay GIF" width="500"/>
+<img src="Images/Screenshot3.png" alt="Screenshot" width="300"/> <img src="Images/Gameplay.gif" alt="Gameplay GIF" width="500"/>
 
 ## Installation
 1. Clone the repository
