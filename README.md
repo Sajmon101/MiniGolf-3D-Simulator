@@ -1,22 +1,20 @@
 # Mini Golf 3D Simulator
 
-The Mini Golf Simulator is a game developed using C++ and the OpenGL graphics API. This project offers a realistic mini-golf experience with ball physics, various objects on the course, and dynamic lighting effects. The game uses a **dynamic pipeline**.
-
 ## Authors
 - Szymon Korus
 - Bartosz Mroczkowski
 - Kacper Świątek
 
 ## Project Description
-The game allows players to aim, choose the strength of their shot, and navigate the scene to hit the ball into the hole with as few strokes as possible. Key features of the simulator include:
-- **Camera Movement** - freely move around the scene and aim
-- **Textures and 3D Models** - realistically textured objects such as a golf club, ball, and windmill
+The Mini Golf Simulator is a game developed using C++ and the OpenGL graphics API. The game allows players to aim, choose the strength of their shot, and navigate the scene to hit the ball into the hole with as few strokes as possible. Project uses **dynamic pipeline**. Key features of the simulator include:
+- **Two Camera Movement Modes** - the first one allows for free movement around the scene, and the second controls the camera movement around the ball.
+- **Textures blending**
 - **Dynamic Lighting** - lighting simulation using Phong shading models
 - **Game Physics** - ball movement based on real-world physics principles
 
 ## Libraries
 - **GLEW**
-- **GLM*
+- **GLM**
 - **GLFW3**
   
 ## Controls
