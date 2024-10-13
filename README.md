@@ -12,10 +12,16 @@ The Mini Golf Simulator is a game developed using C++ and the OpenGL graphics AP
 - **Dynamic Lighting** - lighting simulation using Phong shading models
 - **Game Physics** - ball movement based on real-world physics principles
 
-## Libraries
+## All used libraries
 - **GLEW**
 - **GLM**
 - **GLFW3**
+
+## My Contribution to the Project
+- Physics for the Club and Ball: Developed the physics system to simulate the ball's movement and its interaction with the club.
+- Collision Detection: Implemented collision detection to handle interactions between the ball and obstacles on the course.
+- Object Loading and Buffering: Created functionality to load 3D models and transfer them to GPU buffers for efficient rendering.
+- Code Refactoring: Established classes Scene, GameObject, Script, Component, and Collider, and reorganized the code for easier maintenance and extension.
   
 ## Controls
 ### Aiming Mode:
