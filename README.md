@@ -44,8 +44,3 @@ The Mini Golf Simulator is a game developed using C++ and the OpenGL graphics AP
 <img src="Images/Screenshot1.png" alt="Screenshot" width="500"/> <img src="Images/Screenshot2.png" alt="Screenshoot" width="500"/>
 <img src="Images/Screenshot3.png" alt="Screenshot" width="500"/> <img src="Images/Gameplay.gif" alt="Gameplay GIF" width="500"/>
 
-## Installation
-1. Clone the repository
-2. Open the project in Microsoft Visual Studio 2022.
-3. Set the build configuration to x86.
-4. Build and run the project.
